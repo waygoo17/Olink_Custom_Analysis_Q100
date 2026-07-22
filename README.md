@@ -1,2 +1,2 @@
 # Olink_Custom_Analysis
-A Custom Pipeline for Analyzing Olink Q100 Data. This automated pipeline aims to detect potential sample swaps, identify abnormal patterns across biological groups or user-defined factors, and evaluate inter- and intra-variability among replicates, as well as overall assay performance.
+This automated pipeline aims to detect potential sample swaps, identify abnormal patterns across biological groups or user-defined factors, and evaluate inter- and intra-variability among replicates, as well as overall assay performance.
